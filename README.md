@@ -11,5 +11,7 @@ BeautifulSoup | [Download](https://pypi.org/project/beautifulsoup4/)            
 
 ## Instruções
 1. Clone o repositório
-2. Abra o IDLE
-3. Abra o arquivo .py e execute
+2. Crie um arquivo de texto vazio e salve o caminho para inserir no script
+3. Altere o aquivo .py | Insira a URL e o caminho do arquivo .txt
+4. Abra o IDLE
+5. Abra o arquivo .py e execute
